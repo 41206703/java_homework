@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07eaaa6c-26b7-42eb-ab85-6c031165e746" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/eg4/home4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eg4/home4_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eg4/home4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/eg4/home4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_homework/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="07eaaa6c-26b7-42eb-ab85-6c031165e746" name="变更" comment="变更" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +123,7 @@
       <workItem from="1663684272702" duration="1931000" />
       <workItem from="1663720536382" duration="1084000" />
       <workItem from="1663725359694" duration="3646000" />
-      <workItem from="1663729028748" duration="706000" />
+      <workItem from="1663729028748" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -146,17 +140,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/eg4/home4_3.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
